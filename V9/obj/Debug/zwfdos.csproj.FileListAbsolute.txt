@@ -1,0 +1,9 @@
+C:\Users\zeego\Desktop\zwfdoisp\V9\obj\Debug\zwfdos.Properties.Resources.resources
+C:\Users\zeego\Desktop\zwfdoisp\V9\obj\Debug\V9.View.AddEditMaterialView.resources
+C:\Users\zeego\Desktop\zwfdoisp\V9\obj\Debug\V9.View.AddSuplier.resources
+C:\Users\zeego\Desktop\zwfdoisp\V9\obj\Debug\V9.View.ChangeMinCount.resources
+C:\Users\zeego\Desktop\zwfdoisp\V9\obj\Debug\V9.MainView.resources
+C:\Users\zeego\Desktop\zwfdoisp\V9\obj\Debug\V9.View.ProductView.resources
+C:\Users\zeego\Desktop\zwfdoisp\V9\obj\Debug\zwfdos.csproj.GenerateResource.cache
+C:\Users\zeego\Desktop\zwfdoisp\V9\obj\Debug\zwfdos.csproj.CoreCompileInputs.cache
+C:\Users\zeego\Desktop\zwfdoisp\V9\obj\Debug\zwfdos.csproj.AssemblyReference.cache
